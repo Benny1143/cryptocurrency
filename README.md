@@ -1,2 +1,3 @@
-# cryptocurrency
-A personal guide to cryptocurrency
+# A personal guide to cryptocurrency, Singaporean Edition
+
+
